@@ -1,0 +1,21 @@
+{
+  "name": "youtube-transcript-mcp-server",
+  "version": "1.0.0",
+  "description": "MCP server for downloading YouTube video transcripts",
+  "main": "simple_server.py",
+  "scripts": {
+    "start": "python simple_server.py"
+  },
+  "keywords": [
+    "mcp",
+    "youtube",
+    "transcript",
+    "subtitles",
+    "api"
+  ],
+  "author": "YouTube Transcript MCP Server",
+  "license": "MIT",
+  "engines": {
+    "python": ">=3.7"
+  }
+}

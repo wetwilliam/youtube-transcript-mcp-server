@@ -1,0 +1,2 @@
+# YouTube transcript API
+youtube-transcript-api>=0.6.0
